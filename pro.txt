@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-
-text added
-=======
-some text added
-
-
-djfsjdf
-
-fdljslf
-
->>>>>>> parent of edbda75... push file
+new file
